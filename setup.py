@@ -16,7 +16,7 @@ setup(
     long_description=get_long_description(),
     author=__author__,
     author_email="cn-zyp@163.com",
-    url="",
+    url="https://github.com/rainp1ng/raindb",
     license="MIT",
     packages=find_packages('src'),
     package_dir={'': 'src'},
