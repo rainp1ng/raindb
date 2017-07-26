@@ -1,0 +1,5 @@
+# Include docs in the root.
+include *.rst
+
+include *.py
+

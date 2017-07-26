@@ -2,11 +2,21 @@ Metadata-Version: 1.1
 Name: raindb
 Version: 0.1
 Summary: UNKNOWN
-Home-page: UNKNOWN
+Home-page: https://github.com/rainp1ng/raindb
 Author: rainp1ng
 Author-email: cn-zyp@163.com
 License: MIT
-Description: raindb test
+Description: INTRO:      a tool to simplify database operations, focus on basic use and easily operate data.
+        
+        VERSION:    0.1
+        
+        INCLUDE:    mysql utils
+        
+        AUTHOR:     rainp1ng
+        
+        MAIL:       cn-zyp@163.com
+        
+        GITHUB:     https://github.com/rainp1ng/raindb
 Platform: UNKNOWN
 Classifier: Development Status :: 5 - Production/Stable
 Classifier: Intended Audience :: Developers
